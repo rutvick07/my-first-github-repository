@@ -1,1 +1,3 @@
 Just created another-file.txt in the feature folder. 
+
+This file was modified locally
